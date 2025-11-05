@@ -1,3 +1,6 @@
+# Questions of BOOKS DATA SET
+
+
 # 1.Show all books where the product_disc_price is below 800 and the products_rating is above 4.0.
 select * from user_records.books_data;
 USE user_records.books_data;
